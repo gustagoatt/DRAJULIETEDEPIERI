@@ -16,7 +16,6 @@ Fotos a colocar (mesmo nome, em assets/). Enquanto não existirem, o site mostra
   rosto.jpg, pele.jpg, cabelo.jpg, corpo.jpg   verticais, mín. 1200px de altura
   experiencia.jpg   vertical, mín. 1400px de altura
   clinica-goiania.jpg, clinica-pva.jpg          horizontais 4:3
-  obra-pb.jpg       horizontal 16:10
   insta-1.jpg ... insta-8.jpg  capas dos reels (1: 9:16, 2: 4:5, 3: 1:1, 4: 3:4, 5: 2:3, 6: 4:5, 7: 9:16, 8: 1:1)
 
 IMPORTANTE: hero.jpg e dra-arco.jpg vieram em baixa resolução (566px e 407px de largura).
